@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angela@AG2021H
 - 👀 I’m interested in computer software.
-- 🌱 I’m currently learning IT and Python. 
+- 🌱 I’m currently learning Frontend Developer @ MCAS. 
 - 💞️ I’m looking to collaborate on a career in Computer Programming.
 - 📫 How to reach me @ angelagreen375@gmail.com.
 

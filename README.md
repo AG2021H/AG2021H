@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angela@AG2021H
 - 👀 I’m interested in computer software.
-- 🌱 I have completed Frontend Developer @ Mississippi Coding Adacdemies. 
+- 🌱 I have completed Frontend Developer @ Mississippi Coding Academies. 
 - 💞️ I’m looking to collaborate on a career in Computer Programming.
 - 📫 How to reach me @ angelagreen375@gmail.com.
 
